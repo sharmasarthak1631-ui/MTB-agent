@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  mtb-streamlit-copilot:
+    build: .
+    container_name: mtb-copilot-ui
+    ports:
+      - "8501:8501"
+    environment:
+      - PYTHONUNBUFFERED=1
+      - MINIO_ENDPOINT=http://minio:9000
+      - KAFKA_BOOTSTRAP_SERVERS=kafka:9092
+      - NEO4J_URI=bolt://neo4j:7687
+      - POSTGRES_DSN=postgresql://mtb:mtb@pgvector:5432/mtb_db

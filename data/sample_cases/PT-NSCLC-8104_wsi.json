@@ -1,0 +1,14 @@
+{
+  "slide_id": "TCGA-LUAD-8104-DX1",
+  "tumor_cellularity_pct": 68.0,
+  "til_density_mm2": 240.0,
+  "msi_morphology_prob": 0.08,
+  "hrd_morphology_prob": 0.12,
+  "necrosis_pct": 8.5,
+  "total_patches": 16,
+  "morphological_phenotypes": [
+    "Acinar and micropapillary lung adenocarcinoma pattern",
+    "Moderate stromal desmoplasia",
+    "Low-to-moderate peritumoral lymphocytic infiltrate"
+  ]
+}

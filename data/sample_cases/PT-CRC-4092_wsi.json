@@ -1,0 +1,14 @@
+{
+  "slide_id": "TCGA-CRC-4092-DX1",
+  "tumor_cellularity_pct": 76.5,
+  "til_density_mm2": 720.0,
+  "msi_morphology_prob": 0.88,
+  "hrd_morphology_prob": 0.14,
+  "necrosis_pct": 12.0,
+  "total_patches": 16,
+  "morphological_phenotypes": [
+    "Brisk tumor-infiltrating lymphocytes (720 cells/mm2)",
+    "Crohn-like peritumoral lymphoid reaction",
+    "Mucinous and poorly differentiated medullary architecture"
+  ]
+}

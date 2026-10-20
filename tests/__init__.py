@@ -1,0 +1,1 @@
+"""MTB Copilot package module."""

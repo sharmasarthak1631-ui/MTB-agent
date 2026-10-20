@@ -1,0 +1,37 @@
+{
+  "patient_id": "PT-CRC-4092",
+  "age": 64,
+  "sex": "Female",
+  "primary_tumor_site": "Ascending Right Colon",
+  "histological_diagnosis": "Colorectal Adenocarcinoma",
+  "clinical_stage": "Stage IVB (Hepatic and Peritoneal Metastases)",
+  "ecog_performance_status": 1,
+  "most_recent_recist": "PD",
+  "labs": {
+    "egfr_ml_min": 38.0,
+    "serum_creatinine_mg_dl": 1.68,
+    "total_bilirubin_mg_dl": 0.7,
+    "ast_u_l": 29.0,
+    "alt_u_l": 33.0,
+    "anc_cells_ul": 4300,
+    "platelets_k_ul": 210,
+    "hemoglobin_g_dl": 11.2,
+    "lvef_pct": 60.0,
+    "qtc_ms": 428
+  },
+  "prior_lines_of_therapy": [
+    {
+      "line_number": 1,
+      "regimen": "mFOLFOX6 + Bevacizumab",
+      "start_date": "2025-09",
+      "end_date": "2026-05",
+      "best_recist_response": "PR",
+      "discontinuation_reason": "Radiographic hepatic progression (RECIST v1.1 PD)"
+    }
+  ],
+  "active_comorbidities_and_toxicities": [
+    "Stage 3b Chronic Kidney Disease (eGFR 38.0 mL/min/1.73m2)",
+    "Controlled Essential Hypertension"
+  ],
+  "clinical_note_summary": "64-year-old female with metastatic right-sided colorectal adenocarcinoma progressing on first-line mFOLFOX6 + Bevacizumab (RECIST PD). Labs notable for chronic renal impairment with eGFR 38.0 mL/min (creatinine 1.68 mg/dL) and ECOG performance status 1."
+}

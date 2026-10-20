@@ -1,0 +1,8 @@
+##fileformat=VCFv4.2
+##callable_mb=30.0
+##background_somatic_mutations=110
+##msi_genomic_status=MSS
+##hrd_genomic_score=11.0
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr7	55191822	rs121434568	T	G	999	PASS	GENE=EGFR;HGVSp=p.L858R;HGVSc=c.2573T>G;CSQ=missense_variant;VTYPE=SNV;AF=0.34;DP=820;CLINVAR=Pathogenic;SIFT=0.00;POLYPHEN=0.99;HYENA=0.97
+chr7	55181378	rs121434569	C	T	920	PASS	GENE=EGFR;HGVSp=p.T790M;HGVSc=c.2369C>T;CSQ=missense_variant;VTYPE=SNV;AF=0.19;DP=790;CLINVAR=Pathogenic;SIFT=0.00;POLYPHEN=0.98;HYENA=0.96

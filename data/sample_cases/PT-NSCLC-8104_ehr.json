@@ -1,0 +1,37 @@
+{
+  "patient_id": "PT-NSCLC-8104",
+  "age": 69,
+  "sex": "Male",
+  "primary_tumor_site": "Right Upper Lobe Lung",
+  "histological_diagnosis": "Non-Small Cell Lung Cancer (Adenocarcinoma)",
+  "clinical_stage": "Stage IVA (Pleural and Contralateral Pulmonary Nodules)",
+  "ecog_performance_status": 1,
+  "most_recent_recist": "PD",
+  "labs": {
+    "egfr_ml_min": 42.0,
+    "serum_creatinine_mg_dl": 1.54,
+    "total_bilirubin_mg_dl": 0.6,
+    "ast_u_l": 24.0,
+    "alt_u_l": 26.0,
+    "anc_cells_ul": 3900,
+    "platelets_k_ul": 230,
+    "hemoglobin_g_dl": 12.1,
+    "lvef_pct": 56.0,
+    "qtc_ms": 440
+  },
+  "prior_lines_of_therapy": [
+    {
+      "line_number": 1,
+      "regimen": "Erlotinib 150 mg QD (1st-Gen EGFR TKI)",
+      "start_date": "2025-04",
+      "end_date": "2026-08",
+      "best_recist_response": "PR",
+      "discontinuation_reason": "Acquired resistance with new pleural lesions (RECIST PD)"
+    }
+  ],
+  "active_comorbidities_and_toxicities": [
+    "Moderate Renal Insufficiency (eGFR 42.0 mL/min)",
+    "Prior Grade 1 Acneiform Rash on Erlotinib"
+  ],
+  "clinical_note_summary": "69-year-old male with Stage IVA EGFR-mutant lung adenocarcinoma progressing after 16 months on first-line Erlotinib. Repeat biopsy and ctDNA NGS confirm acquired EGFR p.T790M gatekeeper mutation alongside baseline EGFR p.L858R. eGFR is 42.0 mL/min, ECOG 1."
+}

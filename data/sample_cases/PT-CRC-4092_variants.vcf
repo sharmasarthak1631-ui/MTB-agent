@@ -1,0 +1,8 @@
+##fileformat=VCFv4.2
+##callable_mb=32.0
+##background_somatic_mutations=460
+##msi_genomic_status=Borderline / Indeterminate
+##hrd_genomic_score=14.0
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr7	140753336	rs113488022	A	T	999	PASS	GENE=BRAF;HGVSp=p.V600E;HGVSc=c.1799T>A;CSQ=missense_variant;VTYPE=SNV;AF=0.42;DP=610;CLINVAR=Pathogenic;SIFT=0.00;POLYPHEN=0.99;HYENA=0.98
+chr2	47641560	rs63750019	G	C	850	PASS	GENE=MSH2;HGVSp=p.A636P;HGVSc=c.1906G>C;CSQ=missense_variant;VTYPE=SNV;AF=0.39;DP=480;CLINVAR=VUS;SIFT=0.01;POLYPHEN=0.95;HYENA=0.91

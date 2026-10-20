@@ -1,0 +1,14 @@
+{
+  "slide_id": "TCGA-OV-2291-DX1",
+  "tumor_cellularity_pct": 81.0,
+  "til_density_mm2": 490.0,
+  "msi_morphology_prob": 0.11,
+  "hrd_morphology_prob": 0.89,
+  "necrosis_pct": 16.0,
+  "total_patches": 16,
+  "morphological_phenotypes": [
+    "Solid, pseudoendometrioid, and transitional (SET) HRD architecture",
+    "Marked nuclear atypia and frequent atypical mitotic figures",
+    "Moderate tumor-infiltrating lymphocytes"
+  ]
+}
